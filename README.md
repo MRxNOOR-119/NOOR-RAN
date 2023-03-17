@@ -1,4 +1,4 @@
-
+rm -rf NOOR-RAN
 
 git clone https://github.com/Rayeesnoor538/NOOR-RAN
 
